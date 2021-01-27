@@ -8,7 +8,7 @@ import bg_image_02 from "./assets/bg2.jpg";
 function App() {
   return (
     <div className="App">
-      <Header title={"This is title"} descr={"This is Description!"} />
+      <Header title="This is title" descr="This is Description!" />
       <Layout
         id={"layout1"}
         title={"This is title 1"}
